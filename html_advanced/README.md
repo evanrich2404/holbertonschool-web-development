@@ -4,4 +4,6 @@
 
 ### We will be using figma in one way or another, not quite sure yet but seems like a useful tool
 
-image.png
+#### Here is an image from our project
+
+![image of project](https://github.com/evanrich2404/holbertonschool-web-development/blob/main/html_advanced/imageforproject.png)

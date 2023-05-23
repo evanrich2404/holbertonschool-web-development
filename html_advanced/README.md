@@ -6,4 +6,4 @@
 
 #### Here is an image from our project
 
-![image of project](https://github.com/evanrich2404/holbertonschool-web-development/blob/main/html_advanced/imageforproject.png)
+![image of project](https://github.com/evanrich2404/holbertonschool-web-development/blob/main/html_advanced/images/imageforproject.png)

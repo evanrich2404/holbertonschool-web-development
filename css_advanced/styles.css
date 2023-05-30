@@ -34,7 +34,7 @@ body {
     background: #FFFFFF;
 }
 
-header {
+.header {
     position: absolute;
     width: 1103.41px;
     height: 29.46px;
@@ -42,7 +42,7 @@ header {
     top: 35.02px;
 }
 
-header .logo {
+.header .logo {
     position: absolute;
     width: 167.02px;
     height: 29.46px;
@@ -50,7 +50,7 @@ header .logo {
     top: 35.02px;
 }
 
-header .nav-links {
+.header .nav-links {
     position: absolute;
     width: 234px;
     height: 15px;
@@ -58,7 +58,7 @@ header .nav-links {
     top: 37px;
 }
 
-main {
+.main {
     position: absolute;
     width: 1440px;
     height: 1093px;
@@ -201,4 +201,76 @@ main {
     bottom: 57.64%;
 
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+}
+
+.part_1_testimonials {
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: -1px;
+    top: 1093px;
+}
+
+.part_1_testimonials .testimonial {
+    position: absolute;
+    width: 943px;
+    height: 160px;
+    left: 259px;
+    top: 1201px;
+}
+
+.testimonial .blockquote {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 56.96%;
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+}
+
+.testimonial .authorname {
+    position: absolute;
+    height: 34px;
+    left: 0%;
+    right: 82.33%;
+    top: calc(50% - 34px/2 + 28px);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+}
+
+.testimonial .authortitle {
+    position: absolute;
+    height: 34px;
+    left: 0%;
+    right: 77.4%;
+    top: calc(50% - 34px/2 + 62px);
+
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+
+    color: #FFFFFF;
+}
+
+.testimonial .a {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 259px;
+    top: 1201px;
 }

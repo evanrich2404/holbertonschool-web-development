@@ -1,0 +1,204 @@
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('fonts/SourceSansPro-ExtraLight.ttf') format('truetype');
+    font-weight: lighter;
+    font-style: normal;
+}
+
+body {
+    position: relative;
+    width: 1440px;
+    height: 3718px;
+
+    background: #FFFFFF;
+}
+
+header {
+    position: absolute;
+    width: 1103.41px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px;
+}
+
+header .logo {
+    position: absolute;
+    width: 167.02px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px;
+}
+
+header .nav-links {
+    position: absolute;
+    width: 234px;
+    height: 15px;
+    left: 1041px;
+    top: 37px;
+}
+
+main {
+    position: absolute;
+    width: 1440px;
+    height: 1093px;
+    left: 0px;
+    top: 0px;
+}
+
+.banner .h2 {
+    position: absolute;
+    height: 40px;
+    left: 41.94%;
+    right: 39.93%;
+    top: calc(50% - 40px/2 + 104.5px);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+
+    color: #C271FF;
+}
+
+.banner .pros {
+    position: absolute;
+    width: 1009px;
+    height: 237px;
+    left: 217px;
+    top: 758px;
+}
+
+.banner .pros .pro_1 {
+    position: absolute;
+    left: 15.07%;
+    right: 74.51%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+
+.banner .pros .pro_2 {
+    position: absolute;
+    left: 35.14%;
+    right: 54.44%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+
+.banner .pros .pro_3 {
+    position: absolute;
+    left: 54.65%;
+    right: 34.93%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+
+.banner .pros .pro_4 {
+    position: absolute;
+    left: 74.72%;
+    right: 14.86%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+
+.banner .h1 {
+    position: absolute;
+    height: 151px;
+    left: 26.18%;
+    right: 26.32%;
+    top: calc(50% - 151px/2 - 251px);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 151px;
+
+    /* identical to box height */
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.banner .smiles {
+    position: absolute;
+    height: 20px;
+    left: 41.18%;
+    right: 55.21%;
+    top: calc(50% - 20px/2 - 175.5px);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.banner .grin {
+    position: absolute;
+    height: 20px;
+    left: 48.89%;
+    right: 48.61%;
+    top: calc(50% - 20px/2 - 175.5px);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.banner .laugh {
+    position: absolute;
+    height: 20px;
+    left: 55.35%;
+    right: 41.25%;
+    top: calc(50% - 20px/2 - 175.5px);
+
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.banner .button {
+    position: absolute;
+    left: 44.38%;
+    right: 44.38%;
+    top: 38.33%;
+    bottom: 57.64%;
+
+    filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+}
